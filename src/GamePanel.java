@@ -2,8 +2,8 @@ import java.awt.Color;
 import java.awt.Graphics;
 import javax.swing.JPanel;
 
-public class GamePanel extends JPanel
-{
+public class GamePanel extends JPanel{
+	private static final long serialVersionUID = -4470840062027189058L;
 	private Ground ground;
 	private Shape shape;
 	//œ‘ æ√Ê∞Â
